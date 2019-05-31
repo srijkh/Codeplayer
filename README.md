@@ -1,2 +1,2 @@
 # Codeplayer
-an online codeplayer used to reun HTML, CSS and Javascript Code
+an online codeplayer used to run HTML, CSS and Javascript Code
